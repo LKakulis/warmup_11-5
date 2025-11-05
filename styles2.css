@@ -1,0 +1,5 @@
+.box{ margin-left: 20px; height: 100px; width: 100px; background-color: burlywood;box-shadow: 5px 5px 2px #3f3f3f; transition: all 300ms; }
+
+.box:hover{height: 200px; width: 200px; background-color: rgb(8, 152, 89);}
+
+.box:active{background-color: rgb(38, 38, 124);}
